@@ -1,2 +1,3 @@
 # apnacollege-demo
-this my 1first Repository
+this my 1first Repository.
+Author - Rupali Patel
